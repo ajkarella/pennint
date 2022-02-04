@@ -1,0 +1,37 @@
+player_person_id,player_person_currentTeam_name,player_person_fullName,player_stats_skaterStats_assists,player_stats_skaterStats_goals,side
+8476879,Edmonton Oilers,Cody Ceci,0,0,away
+8476913,Edmonton Oilers,Devin Shore,0,0,away
+8475786,Edmonton Oilers,Zach Hyman,0,0,away
+8476886,Edmonton Oilers,Slater Koekkoek,0,0,away
+8477998,Edmonton Oilers,Warren Foegele,1,0,away
+8477943,Edmonton Oilers,Brendan Perlini,0,1,away
+8477934,Edmonton Oilers,Leon Draisaitl,0,1,away
+8479977,Edmonton Oilers,Kailer Yamamoto,1,0,away
+8474098,Edmonton Oilers,Colton Sceviour,1,0,away
+8470281,Edmonton Oilers,Duncan Keith,0,0,away
+8477498,Edmonton Oilers,Darnell Nurse,0,0,away
+8475178,Edmonton Oilers,Zack Kassian,0,0,away
+8479347,Edmonton Oilers,Tyler Benson,0,0,away
+8480802,Edmonton Oilers,Ryan McLeod,0,0,away
+8479344,Edmonton Oilers,Jesse Puljujarvi,0,0,away
+8480803,Edmonton Oilers,Evan Bouchard,0,0,away
+8474068,Edmonton Oilers,Kyle Turris,1,0,away
+8478021,Edmonton Oilers,William Lagesson,0,0,away
+8475718,Toronto Maple Leafs,Justin Holl,0,0,home
+8477939,Toronto Maple Leafs,William Nylander,2,0,home
+8478408,Toronto Maple Leafs,Travis Dermott,0,0,home
+8476853,Toronto Maple Leafs,Morgan Rielly,0,0,home
+8479318,Toronto Maple Leafs,Auston Matthews,1,0,home
+8478115,Toronto Maple Leafs,Pierre Engvall,0,0,home
+8481624,Toronto Maple Leafs,Ilya Mikheyev,0,1,home
+8475166,Toronto Maple Leafs,John Tavares,0,1,home
+8474162,Toronto Maple Leafs,Jake Muzzin,0,0,home
+8477941,Toronto Maple Leafs,Nick Ritchie,0,0,home
+8474673,Toronto Maple Leafs,TJ Brodie,0,1,home
+8477021,Toronto Maple Leafs,Alexander Kerfoot,1,1,home
+8478047,Toronto Maple Leafs,Michael Bunting,0,0,home
+8478483,Toronto Maple Leafs,Mitchell Marner,0,0,home
+8469455,Toronto Maple Leafs,Jason Spezza,0,0,home
+8480144,Toronto Maple Leafs,David Kampf,0,0,home
+8480873,Toronto Maple Leafs,Rasmus Sandin,0,0,home
+8474190,Toronto Maple Leafs,Wayne Simmonds,0,0,home

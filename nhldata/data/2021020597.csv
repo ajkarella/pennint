@@ -1,0 +1,37 @@
+player_person_id,player_person_currentTeam_name,player_person_fullName,player_stats_skaterStats_assists,player_stats_skaterStats_goals,side
+8474618,St. Louis Blues,Marco Scandella,0,0,away
+8478859,St. Louis Blues,Niko Mikkola,0,0,away
+8476897,St. Louis Blues,Oskar Sundqvist,0,0,away
+8475753,St. Louis Blues,Justin Faulk,1,0,away
+8477964,St. Louis Blues,Ivan Barbashev,0,0,away
+8475765,St. Louis Blues,Vladimir Tarasenko,1,0,away
+8476438,St. Louis Blues,Brandon Saad,0,0,away
+8477402,St. Louis Blues,Pavel Buchnevich,0,0,away
+8475158,St. Louis Blues,Ryan O'Reilly,0,0,away
+8479366,St. Louis Blues,Logan Brown,0,0,away
+8474102,St. Louis Blues,David Perron,0,0,away
+8475098,St. Louis Blues,Tyler Bozak,0,0,away
+8476792,St. Louis Blues,Torey Krug,1,0,away
+8476892,St. Louis Blues,Colton Parayko,0,1,away
+8475170,St. Louis Blues,Brayden Schenn,1,1,away
+8479385,St. Louis Blues,Jordan Kyrou,0,1,away
+8480023,St. Louis Blues,Robert Thomas,0,0,away
+8481059,St. Louis Blues,Scott Perunovich,1,0,away
+8471724,Pittsburgh Penguins,Kris Letang,2,0,home
+8470619,Pittsburgh Penguins,Brian Boyle,0,0,home
+8476927,Pittsburgh Penguins,Teddy Blueger,1,0,home
+8476934,Pittsburgh Penguins,Brock McGinn,0,1,home
+8477969,Pittsburgh Penguins,Marcus Pettersson,0,0,home
+8478507,Pittsburgh Penguins,John Marino,1,0,home
+8475208,Pittsburgh Penguins,Brian Dumoulin,0,0,home
+8471675,Pittsburgh Penguins,Sidney Crosby,1,1,home
+8476875,Pittsburgh Penguins,Mike Matheson,0,0,home
+8477404,Pittsburgh Penguins,Jake Guentzel,2,0,home
+8477953,Pittsburgh Penguins,Kasperi Kapanen,0,0,home
+8478866,Pittsburgh Penguins,Dominik Simon,0,0,home
+8479944,Pittsburgh Penguins,Zach Aston-Reese,0,0,home
+8475810,Pittsburgh Penguins,Bryan Rust,1,2,home
+8479512,Pittsburgh Penguins,Kasper Bjorkqvist,0,0,home
+8477244,Pittsburgh Penguins,Chad Ruhwedel,0,0,home
+8478542,Pittsburgh Penguins,Evan Rodrigues,1,1,home
+8478046,Pittsburgh Penguins,Danton Heinen,0,0,home
